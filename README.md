@@ -59,13 +59,6 @@ I'm a Software Development student passionate about creating efficient, scalable
 
 ---
 
-### 📂 Featured Projects
-
-*   **[Weather Application](https://github.com/Sam-Dev1010)** — REST API integration built with Spring Boot and OpenWeatherMap API.
-*   **[Game Backend API](https://github.com/Sam-Dev1010)** — Scalable backend logic handling core player and item architectures using C# and .NET.
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
