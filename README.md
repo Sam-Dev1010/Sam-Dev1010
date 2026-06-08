@@ -19,7 +19,7 @@
 📂 Featured Projects
 
     Academic & Personal Projects: Focused on logic, clean design, and backend implementation.
-
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sam-Dev1010&show_icons=true&theme=radial)
 📫 Contact Me
 
     ✉️ Email: [samueldavidmolina2007@gmail.com]
