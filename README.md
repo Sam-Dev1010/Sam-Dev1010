@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Samuel
 
-<!--
-**Sam-Dev1010/Sam-Dev1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Software Development student passionate about creating efficient and scalable solutions.
+⚙️ Interested in backend development and application development, while working to become a Fullstack Developer.
+🛠️ Technologies I work with
 
-Here are some ideas to get you started:
+    Languages: Java, Python, javaScript, HTML, CSS
+    Frameworks & Tools: Visual Studio, Kotlin, React, Spring Boot, Git
+    Databases: SQL server, MySQL, Xampp
+    Other skills: Object-Oriented Programming, Database Design, Software Architecture, MVC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+
+    Keep improving as a Backend Developer
+    Contribute to impactful real-world projects
+    Build a strong portfolio with both academic and personal projects
+    Study abroad to boost my career and achieve my dream of becoming a Tech CTO
+
+📂 Featured Projects
+
+    Academic & Personal Projects: Focused on logic, clean design, and backend implementation.
+
+📫 Contact Me
+
+    ✉️ Email: [samueldavidmolina2007@gmail.com]
+    💼 LinkedIn: [https://www.linkedin.com/in/samuel-david-molina-gomez-72499b33b/]
+    🌐 Portfolio: [https://portfolio-red-eight-o1qpkf4vf2.vercel.app/]
