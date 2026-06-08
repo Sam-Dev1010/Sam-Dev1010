@@ -43,8 +43,8 @@ I'm a Software Development student passionate about creating efficient, scalable
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Dev1010&show_icons=true&theme=tokyonight&count_private=true" alt="Samuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev1010&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sam-Dev1010&show_icons=true&theme=tokyonight&count_private=true" alt="Samuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sam-Dev1010&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
