@@ -60,7 +60,7 @@ Cuento con experiencia en la construcción end-to-end de aplicaciones móviles h
 
 ## 📚 Educación y Certificaciones
 
-* 🎓 **Tecnología en Desarrollo de Software y Aplicaciones Móviles** — Politécnico Internacional (2024 – Presente)
+* 🎓 **Tecnología en Desarrollo de Software y Aplicaciones Móviles** — Politécnico Internacional (2024 – 2026)
 * 📜 **SCRUM Fundamentals Certified (SFC)** — SCRUMstudy (2025)
 * 📜 **Curso Avanzado de Python 360°** — Cafam (2025)
 
@@ -69,6 +69,3 @@ Cuento con experiencia en la construcción end-to-end de aplicaciones móviles h
 <p align="center">
   <i>"Clean Code, robust architecture, and high-performance engineering."</i>
 </p>
-
-README.md
-Mostrando README.md.
